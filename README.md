@@ -1,3 +1,3 @@
 # First-Project
 This is my first project.
-That's why i created GitHub.
+That's why i created this repository.
